@@ -1,0 +1,10 @@
+.footer-components h2,
+.footer-components p {
+    text-align: left;
+}
+@media screen and (max-width: 899px) {
+    .footer-components h2,
+    .footer-components p {
+    text-align: center;
+}
+}
